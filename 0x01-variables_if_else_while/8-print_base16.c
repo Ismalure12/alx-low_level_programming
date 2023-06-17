@@ -12,12 +12,12 @@ int main(void)
 
 	c = 'a';
 	a = 48;
-	while (a < 57)
+	while (a <= 57)
 	{
 		putchar(a);
 		a = a + 1;
 	}
-	while (c < 'g')
+	while (c <= 'f')
 	{
 		putchar(c);
 		c = c + 1;
