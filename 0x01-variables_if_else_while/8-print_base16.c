@@ -17,7 +17,7 @@ int main(void)
 		putchar(a);
 		a = a + 1;
 	}
-	while (c < 'f')
+	while (c < 'g')
 	{
 		putchar(c);
 		c = c + 1;
