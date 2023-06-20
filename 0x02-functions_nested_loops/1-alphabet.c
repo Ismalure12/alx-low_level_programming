@@ -1,6 +1,6 @@
 #include "main.h"
 /*
- *print_alphabet- function that prints the alphapet
+ * print_alphabet - function that prints the alphapet
  */
 void print_alphabet(void)
 {
