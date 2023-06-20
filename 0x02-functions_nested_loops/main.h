@@ -1,14 +1,10 @@
 #include <stdio.h>
-#include "main.h"
 /**
  * main - Entry point
- *
  * Return: Always 0 (Success)
  */
-int main(void)
+int _putchar (char *str)
 {
-	char str[] = "_putchar";
-
-	_putchar(str);
+	printf("%s\n",str);
 	return (0);
 }
