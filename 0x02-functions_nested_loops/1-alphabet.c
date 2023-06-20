@@ -1,7 +1,9 @@
 #include "main.h"
-/*
- * print_alphabet - function that prints the alphapet
+
+/**
+ * print_alphabet - print all the alphabet in lowercase
  */
+
 void print_alphabet(void)
 {
 	char a;
