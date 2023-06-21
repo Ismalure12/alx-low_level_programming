@@ -12,7 +12,7 @@ void print_times_table(int n)
 
 	while (n <= 15 && n >= 0 && i < n)
 	{
-		while (j < 10)
+		while (j < n)
 		{
 			r = j * i;
 			if (j == 0)
